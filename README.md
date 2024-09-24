@@ -11,6 +11,6 @@ I would love to learn more about portfolio management, especially crypto!
 - Siem(splunk) Lab
 - IDS/IPS project with SNORT
 
-##Notes
-Familarity with OS: Windows/Windows Server 2022/Kali linux/Ubuntu
-Tools: Docker, Nvidia Morpheus, Wireshark, VMware Workstation Pro, Oracle VM VirtualBox, GNS3, Cisco Packet Tracer ,Burp Suite
+## Notes
+- Familarity with OS: Windows/Windows Server 2022/Kali linux/Ubuntu
+- Tools: Docker, Nvidia Morpheus, Wireshark, VMware Workstation Pro, Oracle VM VirtualBox, GNS3, Cisco Packet Tracer ,Burp Suite
